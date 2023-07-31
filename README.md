@@ -38,12 +38,6 @@ Our committed and competent team is here to help keep your hair, nails, skin, an
 
 5. Bot Service.
 
-## Video Proof :
-
-
-Uploading Spaw - Proof ( Video ).mp4…
-
-
 
 ##
 # Web Technologies used :
